@@ -4,3 +4,7 @@
 	box-sizing: border-box !important;
 	background: #efefef !important;
 }
+
+.speaker-avatar {
+	display: none !important;
+}
