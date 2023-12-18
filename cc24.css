@@ -8,3 +8,9 @@
 .speaker-avatar img {
 	display: none !important;
 }
+
+.wcb_speaker-template-default.single.single-wcb_speaker .entry-content .speaker-avatar img {
+	display: none !important;
+	width: 0 !important;
+	height: 0 !important;
+}
